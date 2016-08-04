@@ -1,5 +1,7 @@
 # Wallapop web version
-Web version of Wallapop, with the following features:
+Web version of [Wallapop](https://www.wallapop.com/), developed with Java using Spring MVC.
+
+### Features
 - Login
 - Add new item
 - Edit / Delete item
